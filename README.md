@@ -29,7 +29,7 @@ The project uses **TF-IDF** (Term Frequency-Inverse Document Frequency) to conve
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis.git
+   git clone https://github.com/taoducminh/sentiment-analysis.git
    ```
 
 2. **Install required dependencies**:
@@ -95,7 +95,7 @@ print(decoded_labels)
 
 ## Dataset
 
-This project uses the **IMDB Movie Review Dataset**, which contains 50,000 reviews labeled as either positive or negative. The dataset can be downloaded from [here](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
+This project uses the **IMDB Movie Review Dataset**, which contains 50,000 reviews labeled as either positive or negative. 
 
 ## Dependencies
 
@@ -120,10 +120,3 @@ This project uses the **IMDB Movie Review Dataset**, which contains 50,000 revie
 └── src/                 # Main source code for the project
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or contributions, please reach out via [your-email@example.com].
